@@ -34,9 +34,9 @@ flex minilang.l && bison -d minilang.y && gcc minilang.c minilangy.c -o minilang
 ```bash
 ./minilang
 ```
-####Contributing
+###Contributing
 Pull requests are welcome! If you find a bug or have suggestions, feel free to open an issue.
 
-#####Author
+###Author
 TAHIRI SOUFIANE
 
