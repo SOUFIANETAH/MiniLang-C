@@ -2,7 +2,7 @@
 %{
 #include <stdio.h>
 #include <string.h>
-#include "minilang.h"
+#include "minilangy.h"
 
 void yyerror(const char *s);
 %}
