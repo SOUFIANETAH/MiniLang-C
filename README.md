@@ -23,7 +23,7 @@ Ensure you have:
 
 1-Clone this repository:
 ```bash
-git clone https://github.com/yourusername/MiniLang-C.git
+git clone https://github.com/SOUFIANETAH/MiniLang-C.git
 cd MiniLang-C
 ```
 2-Compile using the following command:
